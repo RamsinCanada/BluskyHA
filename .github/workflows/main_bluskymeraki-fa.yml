@@ -26,4 +26,4 @@ jobs:
           app-name: 'BluskyMeraki-FA'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_742FBD6A9D9F4FD9BCF552F57A305B1D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF32976F044446C6BAF77FC9A9B0B870 }}
